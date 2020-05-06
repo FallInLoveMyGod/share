@@ -3,11 +3,11 @@
         "apps": [],
         "details": [
             {
-                "appID": "J2LBCFSWG9.com.qinong.My-Share2",
+                "appID": "J2LBCFSWG9.com.qinong.My-Sharet",
                 "paths": [ "*"]
             },
 	    {
-		"appID": "J2LBCFSWG9.com.qinong.My-Share3",
+		"appID": "J2LBCFSWG9.com.qinong.My-Sharem",
                 "paths": [ "*"]
 	    }
         ]
