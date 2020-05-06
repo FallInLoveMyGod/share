@@ -4,11 +4,11 @@
         "details": [
             {
                 "appID": "J2LBCFSWG9.com.qinong.My-Sharet",
-                "paths": [ "*"]
+                "paths": [ "/FallInLoveMyGod/share/blob/master/*"]
             },
 	    {
 		"appID": "J2LBCFSWG9.com.qinong.My-Sharem",
-                "paths": [ "*"]
+                "paths": [ "/FallInLoveMyGod/share/blob/master/*"]
 	    }
         ]
     }
