@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "J2LBCFSWG9.com.qinong.My-Share2",
+                "paths": [ "temp/*"]
+            },
+	    {
+		"appID": "J2LBCFSWG9.com.qinong.My-Share3",
+                "paths": [ "temp/*"]
+	    }
+        ]
+    }
+}
